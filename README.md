@@ -21,9 +21,6 @@ This project demonstrates my ability to create a basic website structure using H
 2. Open the `index.html` file in your browser to view the Home page.  
 3. Navigate to the Contact page using the link provided on the Home page.  
 
-## Live Demo  
-[Insert the live link here, e.g., "Check it out here: [Live Demo](link)"]  
-
 ## Future Enhancements  
 - Add more pages, such as an "About" or "Projects" page.  
 - Implement a responsive design to optimize the website for all screen sizes.  
